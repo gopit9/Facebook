@@ -19,7 +19,7 @@ public class InvokeChrome {
 		driver.findElement(By.id("did_submit")).click();
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
-		//driver.close();
+		driver.close();
 		
 		
 		
