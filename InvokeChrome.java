@@ -43,13 +43,13 @@ public class InvokeChrome {
 		 
 		 * Step1: Set up your Java project in Eclipse.
 		     1.Open Eclipse IDE.
-             2.Create a new Java project.
-             3.Import Selenium to your project from MVN Repository @ pom.xml (page object model)
+                     2.Create a new Java project.
+                     3.Import Selenium to your project from MVN Repository @ pom.xml (page object model)
              
 		 * Step2: Configure Selenium WebDriver in your project.
-		       *Import necessary Selenium packages in your Java class
-               *Download the WebDriver for your preferred browser (e.g., ChromeDriver for Google Chrome).
-               *Add the WebDriver executable to your project.
+		 *Import necessary Selenium packages in your Java class
+                 *Download the WebDriver for your preferred browser (e.g., ChromeDriver for Google Chrome).
+                 *Add the WebDriver executable to your project.
           
 		 * Step3: Write code to automate the login process.
 		 * Step4: Write code to automate the logout process.
