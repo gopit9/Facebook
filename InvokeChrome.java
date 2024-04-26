@@ -16,8 +16,8 @@ public class InvokeChrome {
 		//Facebook Url
 		driver.get("https://www.facebook.com/");
 		//Declearing Facebook Credentials
-		driver.findElement(By.id("email")).sendKeys("Sunnygurijala44@gmail.com");
-		driver.findElement(By.name("pass")).sendKeys("9");
+		driver.findElement(By.id("email")).sendKeys("bharathgopi@gmail.com");
+		driver.findElement(By.name("pass")).sendKeys("bharathgopi");
 		//Click on login button
 		driver.findElement(By.name("login")).click();
 		
